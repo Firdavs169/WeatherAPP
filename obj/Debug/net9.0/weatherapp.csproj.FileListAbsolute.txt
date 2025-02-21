@@ -12,3 +12,4 @@ C:\Users\User\Desktop\lesson\weatherapp\obj\Debug\net9.0\refint\weatherapp.dll
 C:\Users\User\Desktop\lesson\weatherapp\obj\Debug\net9.0\weatherapp.pdb
 C:\Users\User\Desktop\lesson\weatherapp\obj\Debug\net9.0\weatherapp.genruntimeconfig.cache
 C:\Users\User\Desktop\lesson\weatherapp\obj\Debug\net9.0\ref\weatherapp.dll
+C:\Users\User\Desktop\lesson\weatherapp\obj\Debug\net9.0\weatherapp.sourcelink.json
