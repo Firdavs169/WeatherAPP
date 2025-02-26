@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\lesson\\weatherapp\\weatherapp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\lessons\\weatherapp\\weatherapp.csproj",
       "projectName": "weatherapp",
-      "projectPath": "C:\\Users\\User\\Desktop\\lesson\\weatherapp\\weatherapp.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\lessons\\weatherapp\\weatherapp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\lesson\\weatherapp\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\lessons\\weatherapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
